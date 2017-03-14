@@ -1,5 +1,8 @@
 _repo: Katherine-s-Sheaves_5008
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sheldon, Georgie, Mrs.
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '3912'
     url: http://www.gutenberg.org/2009/agents/3912
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5008#Katherine-s-Sheaves
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
